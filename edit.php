@@ -5,7 +5,7 @@
 </head>
 <body>
  
-	<h2>CRUD DATA MAHASISWA</h2>
+	<h2>Edit Data Mahasiswa</h2>
 	<br/>
 	<a href="index.php">KEMBALI</a>
 	<br/>
